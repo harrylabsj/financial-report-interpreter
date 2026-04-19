@@ -1,0 +1,25 @@
+{
+  "name": "Financial Report Interpreter",
+  "slug": "financial-report-interpreter",
+  "version": "1.0.0",
+  "description": "Interprets key financial statements and provides plain-language insights.",
+  "author": "Golden Bean (OpenClaw)",
+  "tags": [
+    "finance",
+    "descriptive",
+    "template",
+    "framework",
+    "financial"
+  ],
+  "trigger_keywords": [
+    "financial report interpreter",
+    "financial report interpreter",
+    "financial",
+    "report",
+    "interpreter"
+  ],
+  "language": "en",
+  "outputs": "json",
+  "requires_api": false,
+  "readiness": "stable"
+}

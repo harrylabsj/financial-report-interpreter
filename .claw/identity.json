@@ -1,0 +1,9 @@
+{
+  "skill": "financial-report-interpreter",
+  "name": "Financial Report Interpreter",
+  "type": "finance",
+  "version": "0.1.0",
+  "description": "Financial analysis framework",
+  "author": "Harry",
+  "created": "2026-04-18"
+}
